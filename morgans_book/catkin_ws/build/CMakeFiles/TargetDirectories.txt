@@ -1,0 +1,9 @@
+/home/cam/catkin_ws/build/my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir
+/home/cam/catkin_ws/build/CMakeFiles/clean_test_results.dir
+/home/cam/catkin_ws/build/CMakeFiles/clean_test_results_Project.dir
+/home/cam/catkin_ws/build/CMakeFiles/download_extra_data.dir
+/home/cam/catkin_ws/build/CMakeFiles/doxygen.dir
+/home/cam/catkin_ws/build/gtest/CMakeFiles/gtest.dir
+/home/cam/catkin_ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/cam/catkin_ws/build/CMakeFiles/run_tests.dir
+/home/cam/catkin_ws/build/CMakeFiles/tests.dir

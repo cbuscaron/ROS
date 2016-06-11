@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "my_awesome_code")
+set(my_awesome_code_MAINTAINER "cam <cam@todo.todo>")
+set(my_awesome_code_DEPRECATED "")
+set(my_awesome_code_VERSION "0.0.0")
+set(my_awesome_code_BUILD_DEPENDS "rospy")
+set(my_awesome_code_RUN_DEPENDS "rospy")
+set(my_awesome_code_BUILDTOOL_DEPENDS "catkin")
