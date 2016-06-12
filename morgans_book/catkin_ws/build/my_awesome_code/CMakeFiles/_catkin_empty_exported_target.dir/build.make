@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cam/catkin_ws/src
+CMAKE_SOURCE_DIR = /home/cam/ROS/morgans_book/catkin_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cam/catkin_ws/build
+CMAKE_BINARY_DIR = /home/cam/ROS/morgans_book/catkin_ws/build
 
 # Utility rule file for _catkin_empty_exported_target.
 
@@ -56,10 +56,10 @@ my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/build: _catkin_empt
 .PHONY : my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/build
 
 my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/clean:
-	cd /home/cam/catkin_ws/build/my_awesome_code && $(CMAKE_COMMAND) -P CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake
+	cd /home/cam/ROS/morgans_book/catkin_ws/build/my_awesome_code && $(CMAKE_COMMAND) -P CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake
 .PHONY : my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/depend:
-	cd /home/cam/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cam/catkin_ws/src /home/cam/catkin_ws/src/my_awesome_code /home/cam/catkin_ws/build /home/cam/catkin_ws/build/my_awesome_code /home/cam/catkin_ws/build/my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cam/ROS/morgans_book/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cam/ROS/morgans_book/catkin_ws/src /home/cam/ROS/morgans_book/catkin_ws/src/my_awesome_code /home/cam/ROS/morgans_book/catkin_ws/build /home/cam/ROS/morgans_book/catkin_ws/build/my_awesome_code /home/cam/ROS/morgans_book/catkin_ws/build/my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : my_awesome_code/CMakeFiles/_catkin_empty_exported_target.dir/depend
 

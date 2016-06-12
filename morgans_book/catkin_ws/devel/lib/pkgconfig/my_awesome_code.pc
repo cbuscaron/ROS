@@ -1,8 +1,8 @@
-prefix=/home/cam/catkin_ws/devel
+prefix=/home/cam/ROS/morgans_book/catkin_ws/devel
 
 Name: my_awesome_code
 Description: Description of my_awesome_code
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/cam/catkin_ws/devel/lib 
+Libs: -L/home/cam/ROS/morgans_book/catkin_ws/devel/lib 
 Requires: 

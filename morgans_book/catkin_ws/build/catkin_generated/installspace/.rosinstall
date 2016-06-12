@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/cam/catkin_ws/install/setup.sh
+    local-name: /home/cam/ROS/morgans_book/catkin_ws/install/setup.sh

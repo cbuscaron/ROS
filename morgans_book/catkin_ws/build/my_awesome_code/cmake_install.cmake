@@ -1,8 +1,8 @@
-# Install script for directory: /home/cam/catkin_ws/src/my_awesome_code
+# Install script for directory: /home/cam/ROS/morgans_book/catkin_ws/src/my_awesome_code
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  SET(CMAKE_INSTALL_PREFIX "/home/cam/catkin_ws/install")
+  SET(CMAKE_INSTALL_PREFIX "/home/cam/ROS/morgans_book/catkin_ws/install")
 ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
 STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ IF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 ENDIF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/cam/catkin_ws/build/my_awesome_code/catkin_generated/installspace/my_awesome_code.pc")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/cam/ROS/morgans_book/catkin_ws/build/my_awesome_code/catkin_generated/installspace/my_awesome_code.pc")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_awesome_code/cmake" TYPE FILE FILES
-    "/home/cam/catkin_ws/build/my_awesome_code/catkin_generated/installspace/my_awesome_codeConfig.cmake"
-    "/home/cam/catkin_ws/build/my_awesome_code/catkin_generated/installspace/my_awesome_codeConfig-version.cmake"
+    "/home/cam/ROS/morgans_book/catkin_ws/build/my_awesome_code/catkin_generated/installspace/my_awesome_codeConfig.cmake"
+    "/home/cam/ROS/morgans_book/catkin_ws/build/my_awesome_code/catkin_generated/installspace/my_awesome_codeConfig-version.cmake"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_awesome_code" TYPE FILE FILES "/home/cam/catkin_ws/src/my_awesome_code/package.xml")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_awesome_code" TYPE FILE FILES "/home/cam/ROS/morgans_book/catkin_ws/src/my_awesome_code/package.xml")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
