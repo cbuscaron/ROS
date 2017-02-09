@@ -1,2 +1,0 @@
-my_awesome_code
--DCATKIN_DEVEL_PREFIX=/home/cam/ROS/morgans_book/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cam/ROS/morgans_book/catkin_ws/install -G Unix Makefiles
